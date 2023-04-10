@@ -1,0 +1,8 @@
+export const LOGIN = 'Dinara123456'
+export const INVALIDLOGIN = 'Dinara12345'
+export const EMAIL = 'dinara.gaysina@ispring.com'
+export const PASSWORD = 'Masterlovemargo'
+export const INVALIDPASSWORD = '12345Q'
+export const PERSONAL_TOKEN = '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'
+export const REPO = 'test'
+export const PRIVATEREPO = 'noIssue'
